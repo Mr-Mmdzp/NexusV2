@@ -10,7 +10,7 @@ It is designed to bring projects, tasks, notes, analytics, and daily workflow in
 ## ✨ Preview
 
 🔗 **Live Demo:**  
-[✨Open Demo](https://mr-mmdzp.github.io/NexusV2/)
+[👉 Open Demo](https://mr-mmdzp.github.io/NexusV2/)
 
 ---
 
